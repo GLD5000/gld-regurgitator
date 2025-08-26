@@ -13,7 +13,7 @@ npm i -D @gld5000-cli/gld-regurgitator
 ### Import (.mjs)
 
 ```
-import * as npmInit from '@gld5000-cli/gld-regurgitator'
+import * as gldRegurgitator from '@gld5000-cli/gld-regurgitator'
 ```
 
 ### Example Input
