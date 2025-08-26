@@ -1,0 +1,24 @@
+{
+  "name": "@gld5000-cli/gld-regurgitator",
+  "version": "1.0.0",
+  "description": "Reproduces part of a library in your repository",
+  "keywords": [
+    "CLI",
+    "NPM"
+  ],
+  "homepage": "https://github.com/GLD5000/gld-regurgitator#readme",
+  "bugs": {
+    "url": "https://github.com/GLD5000/gld-regurgitator/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GLD5000/gld-regurgitator.git"
+  },
+  "license": "MIT",
+  "author": "GLD5000",
+  "type": "module",
+  "main": "gldRegurgitator.ts",
+  "scripts": {
+    "test": "test"
+  }
+}
