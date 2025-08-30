@@ -40,6 +40,11 @@ npm update @gld5000-cli/gld-regurgitator
 npm uninstall @gld5000-cli/gld-regurgitator
 ```
 
+## Execute Directly from NPM 
+
+```
+npx @gld5000-cli/gld-regurgitator
+```
 
 ## License
 
