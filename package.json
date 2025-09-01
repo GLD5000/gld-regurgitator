@@ -17,7 +17,7 @@
   },
   "license": "MIT",
   "author": "GLD5000",
-  "type": "commonjs",
+  "type": "module",
   "main": "gldRegurgitator.ts",
   "scripts": {
     "test": "test",
