@@ -23,7 +23,7 @@ var __toESM = (mod, isNodeMode, target) => (target = mod != null ? __create(__ge
 ));
 
 // src/index.ts
-var import_path = __toESM(require("path"), 1);
+var import_path = __toESM(require("path"));
 var import_url = require("url");
 var import_meta = {};
 var __filename = (0, import_url.fileURLToPath)(import_meta.url);
