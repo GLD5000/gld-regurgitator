@@ -6,7 +6,7 @@
     "CLI",
     "NPM"
   ],
-  "bin": "dist/index.mjs",
+  "bin": "dist/index.js",
   "homepage": "https://github.com/GLD5000/gld-regurgitator#readme",
   "bugs": {
     "url": "https://github.com/GLD5000/gld-regurgitator/issues"
@@ -21,7 +21,7 @@
   "main": "gldRegurgitator.ts",
   "scripts": {
     "test": "test",
-    "build": "tsup src/index.ts"
+    "build": "tsc"
   },
   "devDependencies": {
     "tsup": "^8.5.0",
