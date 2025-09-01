@@ -6,7 +6,7 @@
     "CLI",
     "NPM"
   ],
-  "bin": "dist/index.cjs",
+  "bin": "src/index.ts",
   "homepage": "https://github.com/GLD5000/gld-regurgitator#readme",
   "bugs": {
     "url": "https://github.com/GLD5000/gld-regurgitator/issues"
