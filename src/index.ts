@@ -9,4 +9,6 @@ const workingDir = __dirname;
 console.log("workingDir", workingDir);
 
 // Get installer root
-console.log('installer root',path.dirname(import.meta.filename));
+console.log('installer root', path.dirname(import.meta.filename));
+
+console.log('cwd',process.cwd());

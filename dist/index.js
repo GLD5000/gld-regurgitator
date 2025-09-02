@@ -6,3 +6,4 @@ const __dirname = path.dirname(__filename);
 const workingDir = __dirname;
 console.log("workingDir", workingDir);
 console.log('installer root', path.dirname(import.meta.filename));
+console.log('cwd', process.cwd());
